@@ -10,3 +10,5 @@ Thông tin cấu hình máy:
 - Intel Wirless AC 7260
 - Intel Bluetooth (8087-07DC)
 
+Tương thích với các thành phần sau
+- [x] Nhận Intel Graphics 4600 1530MB
