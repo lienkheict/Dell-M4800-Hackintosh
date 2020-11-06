@@ -11,4 +11,8 @@ Thông tin cấu hình máy:
 - Intel Bluetooth (8087-07DC)
 
 Tương thích với các thành phần sau
-- [x] Nhận Intel Graphics 4600 1530MB
+- [x] Intel Graphics 4600 1530MB
+- [x] nVidia Quadro K2100M thông qua cổng HDMI
+- [x] Audio ALC292 qua mã alcid=12
+- [x] Wirless AC 7260
+- [x] Bluetooth
