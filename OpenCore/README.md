@@ -23,6 +23,8 @@
 Để thực hiện bạn có thể sử dụng ứng dụng [OCConfigCompare](https://github.com/corpnewt/OCConfigCompare) để so sánh giữa hai tệp tin 
 
 ![Compare plist](https://github.com/lienkheict/Dell-M4800-Hackintosh/blob/main/OpenCore/compare_plist.png)
+- Sau khi thực hiện so sánh xong, bạn sẽ thấy được màn hình khác biệt giữa tệp tin config.plist và tệp Sample.plist (tệp giải nén được trong bước 2). Nếu thấy thiếu vị trí nào trong tệp của mình bạn có thể thêm giá trị đó vào như hình để tệp config.plist của bạn đầy đủ
 
+![Compare plist](https://dortania.github.io/OpenCore-Post-Install/assets/img/oc-config-compare.935f00cb.png)
 
-
+## Chúc bạn thành công!
