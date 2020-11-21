@@ -18,4 +18,4 @@ Tương thích với các thành phần sau
 - [x] Bluetooth
 
 ![ M4800 BigSur]
-(https://drive.google.com/file/d/1L5BIasyG1ZAa9Zvc296k_arRqDObmOEL/view?usp=sharing)
+(Bigsur.png)
