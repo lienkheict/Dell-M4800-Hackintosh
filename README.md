@@ -16,5 +16,12 @@ Tương thích với các thành phần sau
 - [x] Audio ALC292 qua mã alcid=12
 - [x] Wirless AC 7260
 - [x] Bluetooth
+- [x] Internal Camera, Microphone
+- [x] Keyboard, Touchpad và Trackpad
+
+Bạn cần hỗ trợ, trao đổi thông tin có thể qua thông tin sau:
+* Email: `tuyen190191@gmail.com`
+
+
 
 ![M4800 BigSur](https://github.com/lienkheict/Dell-M4800-Hackintosh/blob/main/Bigsur.png)
