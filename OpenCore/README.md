@@ -11,6 +11,7 @@
   - `EFI/BOOT/BOOTx64.efi`
   - `EFI/OC/OpenCore.efi`
   - `EFI/OC/Drivers/OpenRuntime` Tệp này quan trọng nếu không thay OpenCore sẽ không hoạt động được
+- Xem hình để thấy được vị trí các tệp tin cần thay đổi
   [Update OpenCore](https://dortania.github.io/OpenCore-Post-Install/assets/img/usb-folder-highlight.319b4d56.png)
 
 
