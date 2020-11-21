@@ -18,4 +18,4 @@ Tương thích với các thành phần sau
 - [x] Bluetooth
 
 ![ M4800 BigSur]
-(Bigsur.png)
+(https://github.com/lienkheict/Dell-M4800-Hackintosh/blob/main/Bigsur.png)
