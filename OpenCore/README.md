@@ -1,27 +1,16 @@
-# Dell-M4800-Hackintosh
+# Cập nhập OpenCore
  
-Thông tin cấu hình máy:
-- Intel Core i7 4810MQ
-- Intel HD Graphics 4600
-- NVIDIA Quadro K2100M
-- LCD LP156WF (eDP - 1920x1080)
-- Audio Realtek ALC292
-- SSD WDC WDS120G
-- Intel Wirless AC 7260
-- Intel Bluetooth (8087-07DC)
-
-Tương thích với các thành phần sau
-- [x] Intel Graphics 4600 1530MB
-- [x] nVidia Quadro K2100M thông qua cổng HDMI
-- [x] Audio ALC292 qua mã alcid=12
-- [x] Wirless AC 7260
-- [x] Bluetooth
-- [x] Internal Camera, Microphone
-- [x] Keyboard, Touchpad và Trackpad
-
-Bạn cần hỗ trợ, trao đổi thông tin có thể qua thông tin sau:
-* Email: `tuyen190191@gmail.com`
-* Zalo: `0356.235-145`
+Để cập nhập phiên bản OpenCore mới nhất bạn có thể thực hiện theo bước sau
+1. Truy cập vào địa chỉ [OpenCorePkg's releases](https://github.com/acidanthera/OpenCorePkg/releases/) tải về phiên bản mới nhất của OpenCore
+2. Giải nén tệp OpenCore vừa tải về
+3. Mount phân vùng EFI
+- Sử dụng ứng dụng ứng dụng [OpenCore Configurator] (https://mackie100projects.altervista.org/opencore-configurator/) để mount phân vùng EFI của bạn
+- Mở phân vùng EFI bạn vừa Mout ra và tiến hành bước tiếp theo
+4. Thay thế tệp tin OpenCore mới nhất vào phân vùng EFI
+- Thay thế một vài tệp tin giải nén ở bước `2` theo đúng đường dẫn như bên dưới
+  - `EFI/BOOT/BOOTx64.efi`
+  - `EFI/OC/OpenCore.efi`
+  - `EFI/OC/Drivers/OpenRuntime`
 
 
 ![M4800 BigSur](https://github.com/lienkheict/Dell-M4800-Hackintosh/blob/main/Bigsur.png)
