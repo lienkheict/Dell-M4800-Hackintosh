@@ -16,3 +16,6 @@ Tương thích với các thành phần sau
 - [x] Audio ALC292 qua mã alcid=12
 - [x] Wirless AC 7260
 - [x] Bluetooth
+
+![ M4800 BigSur]
+(https://drive.google.com/file/d/1L5BIasyG1ZAa9Zvc296k_arRqDObmOEL/view?usp=sharing)
