@@ -12,7 +12,7 @@
   - `EFI/OC/OpenCore.efi`
   - `EFI/OC/Drivers/OpenRuntime` Tệp này quan trọng nếu không thay OpenCore sẽ không hoạt động được
 - Xem hình để thấy được vị trí các tệp tin cần thay đổi
-  [Update OpenCore](https://dortania.github.io/OpenCore-Post-Install/assets/img/usb-folder-highlight.319b4d56.png)
+  ![Update OpenCore](https://dortania.github.io/OpenCore-Post-Install/assets/img/usb-folder-highlight.319b4d56.png)
 
 
 ![M4800 BigSur](https://github.com/lienkheict/Dell-M4800-Hackintosh/blob/main/Bigsur.png)
