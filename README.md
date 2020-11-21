@@ -21,7 +21,7 @@ Tương thích với các thành phần sau
 
 Bạn cần hỗ trợ, trao đổi thông tin có thể qua thông tin sau:
 * Email: `tuyen190191@gmail.com`
-* Zalo: `0356.235-145`
+* Zalo: `0356.235-145 Mình làm việc hoặc bận nên không trả lời được thường xuyên`
 
 
 ![M4800 BigSur](https://github.com/lienkheict/Dell-M4800-Hackintosh/blob/main/Bigsur.png)
